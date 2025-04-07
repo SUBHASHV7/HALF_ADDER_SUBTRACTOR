@@ -75,7 +75,6 @@ endmodule
 
 ![428376457-1536eca1-2262-4129-91f6-287c72cee975](https://github.com/user-attachments/assets/5176eb55-500d-46bb-8ca2-8c4547025d98)
 
-
-**Result:**
+**Result**
 
 Thus, the half adder and half subtractor verilog program has been sucessfully executed.
